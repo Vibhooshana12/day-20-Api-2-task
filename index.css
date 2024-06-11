@@ -1,0 +1,25 @@
+body {
+    background-color: #202020;
+}
+
+#definitionContainer {
+    margin-top: 20px;
+}
+
+.definition {
+    background-color: #fff;
+    border: 2px solid #e66326;
+    border-radius: 1.25rem;
+    padding: 15px;
+    margin-bottom: 10px;
+    color:rgb(6, 7, 8) 
+}
+
+.audio-control {
+    margin-top: 10px;
+}
+.container{
+    background-color: rgb(20, 20, 20);
+    color:whitesmoke;
+    padding:25px;
+}
